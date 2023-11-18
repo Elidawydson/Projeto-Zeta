@@ -1,5 +1,5 @@
 # Projeto-Zeta
-Tema: Portifólio coletivo
+Tema: Heróis do Penta
 
 Equipe: 
 Rikelmy;
