@@ -35,7 +35,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #ffd100;
+    background: #ffd100;
 }
 header .logo{
     position: relative;
