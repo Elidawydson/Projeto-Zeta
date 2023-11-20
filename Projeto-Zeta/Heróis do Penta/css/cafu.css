@@ -141,14 +141,14 @@ header .navegation li a{
     position: absolute;
     right: 0;
     bottom: 0;
-    height: 500px;
-   width: 500px;
+    height: 600px;
+    width: 600px;
 }
 .boxImg img{
     width: 200px;
     margin-right: -50px;
     transition: transform 0.3s ease;
-    margin-top: 530px;
+   margin-top: 500px;
 }
 .boxImg .img1{
     transform: translateY(-375px) translateX(180px) rotate(0deg) scale(2)
