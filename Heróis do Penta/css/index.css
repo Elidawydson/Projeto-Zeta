@@ -35,7 +35,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: #ffd100;
+    background-color: #ffd100;
 }
 header .logo{
     position: relative;
@@ -52,9 +52,9 @@ header .navegation  li{
 header .navegation li a{
     display: inline-block;
     color: #fff;
-    font-weight: 500;
+    font-weight: 650;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 12px;
     margin-left: 100px;
 }
 .content{
@@ -80,7 +80,7 @@ header .navegation li a{
 .content .text h2 span{
     font-size: 2em;
     line-height: 1;
-    color: #009c54;
+    color: #ffd100;
     margin: 25px;
         }
 .content .text p{
@@ -128,10 +128,6 @@ header .navegation li a{
     border-radius: 50%;
     transition:  0.3s ease-in-out;
 }
-.icons li a:hover{
-    background: #e51e2a;
-    transform: translateY(-10px);
-}
 .icons li a img{
     filter: invert(1);
     transform: scale(0.5);
@@ -165,20 +161,3 @@ header .navegation li a{
 .boxImg .img6{
     transform: translateY(-80px) translateX(-250px) rotate(0deg) scale(5);
 }
-
-.nova-img1,
-.nova-img2,
-.nova-img3,
-.nova-img4,
-.nova-img5,
-.nova-img6 {
-    position: absolute;
-    width: 200px;
-}
-
-.nova-img1 { top: -50px; left: -150px; }
-.nova-img2 { top: 150px; left: -150px; }
-.nova-img3 { top: -50px; right: -150px; }
-.nova-img4 { bottom: 150px; right: -150px; }
-.nova-img5 { bottom: 50px; left: -150px; }
-.nova-img6 { bottom: 50px; left: 50px; }
