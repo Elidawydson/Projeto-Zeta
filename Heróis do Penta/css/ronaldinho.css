@@ -29,7 +29,7 @@ section {
     clip-path: circle(50% at bottom right);
 }
 
-header {
+header{
     position: absolute;
     top: 0;
     left: 0;
@@ -38,30 +38,26 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: #ffd100;
+    background-color: #ffd100;
 }
-
-header .logo {
+header .logo{
     position: relative;
     max-width: 70px;
     top: 4px;
 }
-
-header .navegation ul {
+header .navegation ul{
     position: relative;
     display: flex;
 }
-
-header .navegation li {
+header .navegation  li{
     list-style: none;
 }
-
-header .navegation li a {
+header .navegation li a{
     display: inline-block;
     color: #fff;
-    font-weight: 500;
+    font-weight: 650;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 12px;
     margin-left: 100px;
 }
 
